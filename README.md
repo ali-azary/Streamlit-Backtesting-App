@@ -99,3 +99,4 @@ if __name__ == '__main__':
 
 This application provides a user-friendly interface to backtest various trading strategies using Backtrader. Users can select strategies, input parameters, and visualize the results interactively. Integrating Streamlit with Backtrader and yFinance facilitates easy experimentation with different trading strategies and data.
 ```
+![image](https://github.com/user-attachments/assets/d984642a-d7a3-4e14-8b97-e47160e8b21f)
